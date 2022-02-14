@@ -3,10 +3,10 @@
 The Olympic Games, considered to be the world's foremost sports competition has more than 200 nations participating across the Summer and Winter Games alternating by occurring every four years but two years apart. Throughout this project, we will explore the Olympics dataset, look at some interesting statistics and then try to find out which country is the King of Olympic Games
 
 # You will learn to apply 
-Python Basics
-Python Programming Constructs
-Data Structures
-Functions
+Python Basics, 
+Python Programming Constructs, 
+Data Structures, 
+Functions, 
 Object Oriented Programming in Python
 
 # About the Olympics Dataset
@@ -15,5 +15,5 @@ You will be working on olympics dataset (olympics.csv), which was derived from t
 
 # Pre-requisites
 
-Working knowledge of Pandas, Numpy
+Working knowledge of Pandas, Numpy , 
 Data indexing and slicing
