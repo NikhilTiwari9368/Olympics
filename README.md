@@ -22,4 +22,4 @@ Data indexing and slicing
 http://oda-nikhil.herokuapp.com/
 
 # Data Science Book Link 
-https://jakevdp.github.io/PythonDataScienceHandbook/
+https://PythonDataScienceHandbook/
