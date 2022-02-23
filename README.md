@@ -20,3 +20,6 @@ Data indexing and slicing
 
 # Demo Link 
 http://oda-nikhil.herokuapp.com/
+
+# Data Science Book Link 
+https://jakevdp.github.io/PythonDataScienceHandbook/
